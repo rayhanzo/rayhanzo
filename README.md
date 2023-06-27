@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rayhanzo
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning it
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning developer
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
